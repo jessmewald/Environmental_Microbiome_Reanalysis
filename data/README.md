@@ -5,7 +5,8 @@ Used web based [SRA explorer](https://github.com/ewels/sra-explorer) to download
 
 Raw data acquired from public repositories as follows:
 
-AV_Raw_Data 
-**PMCID:PMC6206866**
-**Bioproject Number:PRJNA382682**
+######AV_Raw_Data
+
+**PMCID: PMC6206866**
+**Bioproject Number: PRJNA382682**
 
