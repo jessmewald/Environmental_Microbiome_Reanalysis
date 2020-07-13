@@ -1,8 +1,6 @@
 
  #### Raw data dowloaded from the Genbank SRA 
 
-Used web based [SRA explorer](https://github.com/ewels/sra-explorer) to download each 'fastq.gz'
-
 Raw data acquired from public repositories as follows:
 
 raw/AV_Raw_Data
